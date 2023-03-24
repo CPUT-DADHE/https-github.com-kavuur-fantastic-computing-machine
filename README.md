@@ -1,4 +1,4 @@
-# Explainaible AI Project
+# Data Analytics for Clinical Guidance on Immune Response to COVID-19 Vaccination for Patients with Co-morbidities and Prior Infection
 
 This study seeks to facilitate risk management of COVID-19 vaccinated individuals with comorbidity
 profiles and those with a history of prior infection of COVID-19 by using data analytics. The study
